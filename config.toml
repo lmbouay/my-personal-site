@@ -8,7 +8,7 @@ description = ""
 compile_sass = true
 
 [extra]
-author = "ACM UMN"
+author = "Lilia"
 menu = [
     { url = "/", name = "Home" },
 ]
