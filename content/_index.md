@@ -13,4 +13,4 @@ Links
 
 [ACM UMN](https://acm.umn.edu)
 
-![Joker cat image](images/jokercat.jpg)
+![Joker cat image](images/miles-johnston-peace-is-possible.jpg)
